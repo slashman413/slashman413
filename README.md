@@ -1,8 +1,17 @@
 ## Hi, I'm slashman413 👋
 
-I build **free, open online tools** and **daily-updated AI & finance dashboards** — all hosted on GitHub Pages, no signup, everything runs in your browser.
+I build **open-source AI-agent tooling** and **free browser tools** under the **[Slashman Tools](https://slashmantools.us/)** name. Everything runs on hardware I own (an NVIDIA DGX Spark) or in your browser, with no signup.
 
-### 🔗 [**AI工具人 · All my free tools →**](https://slashman413.github.io/) &nbsp;|&nbsp; [Tools index](https://slashman413.github.io/tools/)
+### 🛠️ What I'm working on now
+| Project | What it is |
+|---|---|
+| [**cowork**](https://github.com/slashman413/cowork) | Self-hosted MCP task inbox shared by Claude Code, Codex, Gemini CLI and local LLMs, with brain routing, fallback chains and a dashboard. MIT · `docker run ghcr.io/slashman413/cowork` |
+| [**dgx-spark-field-notes**](https://github.com/slashman413/dgx-spark-field-notes) | Real failure modes from running two LLM engines 24/7 on one DGX Spark (GB10): exact errors, causes, fixes, measured numbers |
+| [**llm-calc**](https://slashmantools.us/llm-calc/) | Will this model fit? VRAM/RAM calculator with DGX Spark, RTX PRO 6000, Ryzen AI Max+ and 128–512 GB Mac presets |
+
+Issues and PRs are welcome on all three. I read them.
+
+### 🔗 [**All free tools →**](https://slashmantools.us/tools/)
 
 ---
 
@@ -36,5 +45,4 @@ I build **free, open online tools** and **daily-updated AI & finance dashboards*
 
 ---
 
-🎬 I also run a daily auto-generated AI video + ambient music pipeline.
-☕ If these tools help you, [**support me on Ko-fi**](https://ko-fi.com/ytstories0413) — it keeps everything free & updated.
+☕ If these tools help you, [**support me on Ko-fi**](https://ko-fi.com/ytstories0413). It keeps everything free and updated.
